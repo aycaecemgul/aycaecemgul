@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on deep learning + computer vision for mobile apps<br>
 💻 I'm using Python, Pytorch, OpenCV, Numpy, Anaconda, Pycharm<br>
-🌱 I’m currently learning gans, transformers, docker, kubernetes
+🌱 I’m currently learning gans, transformers, docker, kubernetes<br>
 🏮 I love Studio Ghibli movies.
 
 ![](https://github-readme-stats.vercel.app/api?username=aycaecemgul&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)

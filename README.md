@@ -1,4 +1,4 @@
-#  About Me
+#  Hi,  I am Ayça.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayca) 
 [![](https://visitcount.itsvg.in/api?id=aycaecemgul&icon=8&color=12)](https://visitcount.itsvg.in)
 

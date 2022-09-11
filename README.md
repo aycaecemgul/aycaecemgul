@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on deep learning + computer vision for mobile apps at <a href="https://www.linkedin.com/company/hubxstudios/mycompany/verification/">HubX</a>!<br>
 💻 I'm using Python, Pytorch, OpenCV, Numpy, Pillow, FastAPI, Waitress, Anaconda, Pycharm.<br>
-🌱 I’m currently learning gans, transformers, docker, kubernetes.<br>
+🌱 I’m currently learning GANs, MLOps, Google Cloud, Docker, Kubernetes.<br>
 🏮 I love Studio Ghibli movies.
 
 ![](https://github-readme-stats.vercel.app/api?username=aycaecemgul&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)

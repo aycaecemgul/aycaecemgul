@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on deep learning + computer vision for mobile apps at <a href="https://www.linkedin.com/company/hubxstudios/mycompany/verification/">HubX</a>!<br>
 💻 I'm using Python, Pytorch, OpenCV, Numpy, Pillow, FastAPI, Waitress, Anaconda, Pycharm.<br>
-🌱 I’m currently learning MLOps, Google Cloud, Docker, Kubernetes.<br>
+🌱 I’m currently learning FastAPI, MLOps, Google Cloud Platform, Docker, Kubernetes.<br>
 🏮 I love Studio Ghibli movies.
 
 # Languages and tools

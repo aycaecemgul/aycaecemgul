@@ -3,8 +3,8 @@
 [![](https://visitcount.itsvg.in/api?id=aycaecemgul&icon=8&color=12)](https://visitcount.itsvg.in)
 
 🔭 I’m currently working on deep learning + computer vision for mobile apps at <a href="https://www.linkedin.com/company/hubxstudios/mycompany/verification/">HubX</a>!<br>
-💻 I'm using Python, Pytorch, OpenCV, Numpy, Pillow, GCP, Docker, FastAPI, Waitress, Anaconda, Pycharm.<br>
-🌱 I’m currently learning FastAPI, MLOps, Google Cloud Platform, Docker, Kubernetes.<br>
+💻 I'm working with Generative AI Models! Stable Diffusion, GANs. <br>
+🌱 I’m currently learning LLMs, MLOps! <br>
 🏮 I love Studio Ghibli movies.
 
 # Languages and tools

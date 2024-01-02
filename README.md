@@ -1,11 +1,8 @@
-#  Hi,  I am Ayça.
+#  Hi,  I am Ayca. こんにちは、アイチャです。Selam, ben Ayça.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayca) 
 [![](https://visitcount.itsvg.in/api?id=aycaecemgul&icon=8&color=12)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on deep learning + computer vision for mobile apps at <a href="https://www.linkedin.com/company/hubxstudios/mycompany/verification/">HubX</a>!<br>
-💻 I'm working with Generative AI Models! Some keywords: Stable Diffusion, Text2Img, Img2Img Inpainting, Dreambooth... <br>
-🌱 I’m currently learning LLMs, MLOps! <br>
-🏮 I love Studio Ghibli movies.
+💻 Generative AI & MLOps
 
 # Languages and tools
 
